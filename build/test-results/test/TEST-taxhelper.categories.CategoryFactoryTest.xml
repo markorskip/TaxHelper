@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="taxhelper.categories.CategoryFactoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-11T00:39:04" hostname="Marks-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="testMappingFromString" classname="taxhelper.categories.CategoryFactoryTest" time="0.001"/>
+  <system-out><![CDATA[RENT_RECEIVED
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

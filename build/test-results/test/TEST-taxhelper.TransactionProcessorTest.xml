@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="taxhelper.TransactionProcessorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-11T00:39:04" hostname="Marks-MacBook-Pro.local" time="0.086">
+  <properties/>
+  <testcase name="testConvertingRawEntryIntoTransacation" classname="taxhelper.TransactionProcessorTest" time="0.086"/>
+  <system-out><![CDATA[Record: {header=[number=1, source="SOURCE", creationDate="Thu Sep 10 19:39:04 CDT 2020"], payload=[Transaction(description=null, originalDescription=null, amount=100, transactionType=DEBIT, category=UNCATEGORIZED, accountName=null, labels=[NOLABEL], notes=null, year=2020, month=11, day=11, rawEntry=RawEntry(date=11/11/2020, description=null, originalDescription=null, amount=100, transactionType=debit, category=null, accountName=null, labels=null, notes=null))]}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

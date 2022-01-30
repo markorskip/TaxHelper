@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+    id "io.freefair.lombok" version "5.1.1"
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // https://mvnrepository.com/artifact/org.easybatch/easybatch-opencsv
+    compile group: 'org.easybatch', name: 'easybatch-opencsv', version: '5.3.0'
+    // https://mvnrepository.com/artifact/org.easybatch/easybatch-flatfile
+    compile group: 'org.easybatch', name: 'easybatch-flatfile', version: '5.3.0'
+    // https://mvnrepository.com/artifact/org.easybatch/easybatch-apache-commons-csv
+    compile group: 'org.easybatch', name: 'easybatch-apache-commons-csv', version: '5.3.0'
+    compile 'org.slf4j:slf4j-simple:1.7.30'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

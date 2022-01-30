@@ -1,0 +1,30 @@
+ÒRecord: {header=[number=1, source="SOURCE", creationDate="Thu Sep 10 19:39:04 CDT 2020"], payload=[Transaction(description=null, originalDescription=null, amount=100, transactionType=DEBIT, category=UNCATEGORIZED, accountName=null, labels=[NOLABEL], notes=null, year=2020, month=11, day=11, rawEntry=RawEntry(date=11/11/2020, description=null, originalDescription=null, amount=100, transactionType=debit, category=null, accountName=null, labels=null, notes=null))]}
+ Transaction(description=null, originalDescription=null, amount=100, transactionType=DEBIT, category=UNCATEGORIZED, accountName=null, labels=[TRADEWINDS, COPPER_RENTAL, EFFICIENT_SOFTWARE, QUESTIONABLE, HOME, TAXABLE_INCOME, CHARITY, PERSONAL], notes=null, year=2020, month=9, day=3, rawEntry=RawEntry(date=9/3/2020, description=null, originalDescription=null, amount=100, transactionType=debit, category=null, accountName=null, labels=Tradewinds Copper-Rental Efficient-Software Questionable? Home Taxable-Income Charity Personal, notes=null))
+ Transaction(description=null, originalDescription=null, amount=100, transactionType=DEBIT, category=UNCATEGORIZED, accountName=null, labels=[TRADEWINDS, COPPER_RENTAL, EFFICIENT_SOFTWARE, QUESTIONABLE, HOME, TAXABLE_INCOME, CHARITY, PERSONAL], notes=null, year=2020, month=9, day=3, rawEntry=RawEntry(date=9/3/2020, description=null, originalDescription=null, amount=100, transactionType=debit, category=null, accountName=null, labels=Tradewinds Copper-Rental Efficient-Software Questionable? Home Taxable-Income Charity Personal, notes=null))
+g[TRADEWINDS, COPPER_RENTAL, EFFICIENT_SOFTWARE, QUESTIONABLE, HOME, TAXABLE_INCOME, CHARITY, PERSONAL]
+ Transaction(description=null, originalDescription=null, amount=100, transactionType=DEBIT, category=UNCATEGORIZED, accountName=null, labels=[TRADEWINDS, COPPER_RENTAL, EFFICIENT_SOFTWARE, QUESTIONABLE, HOME, TAXABLE_INCOME, CHARITY, PERSONAL], notes=null, year=2020, month=9, day=3, rawEntry=RawEntry(date=9/3/2020, description=null, originalDescription=null, amount=100, transactionType=debit, category=null, accountName=null, labels=Tradewinds Copper-Rental Efficient-Software Questionable? Home Taxable-Income Charity Personal, notes=null))
+ Transaction(description=null, originalDescription=null, amount=100, transactionType=DEBIT, category=UNCATEGORIZED, accountName=null, labels=[TRADEWINDS, COPPER_RENTAL, EFFICIENT_SOFTWARE, QUESTIONABLE, HOME, TAXABLE_INCOME, CHARITY, PERSONAL], notes=null, year=2020, month=9, day=3, rawEntry=RawEntry(date=9/3/2020, description=null, originalDescription=null, amount=100, transactionType=debit, category=null, accountName=null, labels=Tradewinds Copper-Rental Efficient-Software Questionable? Home Taxable-Income Charity Personal, notes=null))
+ Transaction(description=null, originalDescription=null, amount=100, transactionType=DEBIT, category=UNCATEGORIZED, accountName=null, labels=[TRADEWINDS, COPPER_RENTAL, EFFICIENT_SOFTWARE, QUESTIONABLE, HOME, TAXABLE_INCOME, CHARITY, PERSONAL], notes=null, year=2020, month=9, day=3, rawEntry=RawEntry(date=9/3/2020, description=null, originalDescription=null, amount=100, transactionType=debit, category=null, accountName=null, labels=Tradewinds Copper-Rental Efficient-Software Questionable? Home Taxable-Income Charity Personal, notes=null))
+
+	Printing Transactions
+
+	Transaction count: 2
+
+	öTransaction(description=null, originalDescription=null, amount=100, transactionType=DEBIT, category=UNCATEGORIZED, accountName=null, labels=[TRADEWINDS], notes=null, year=2020, month=11, day=11, rawEntry=RawEntry(date=11/11/2020, description=null, originalDescription=null, amount=100, transactionType=debit, category=null, accountName=null, labels=Tradewinds, notes=null))
+
+	üTransaction(description=null, originalDescription=null, amount=100, transactionType=DEBIT, category=UNCATEGORIZED, accountName=null, labels=[COPPER_RENTAL], notes=null, year=2020, month=11, day=11, rawEntry=RawEntry(date=11/11/2020, description=null, originalDescription=null, amount=100, transactionType=debit, category=null, accountName=null, labels=Copper-Rental, notes=null))
+
+	Printing Transactions
+
+	Transaction count: 1
+
+	öTransaction(description=null, originalDescription=null, amount=100, transactionType=DEBIT, category=UNCATEGORIZED, accountName=null, labels=[TRADEWINDS], notes=null, year=2020, month=11, day=11, rawEntry=RawEntry(date=11/11/2020, description=null, originalDescription=null, amount=100, transactionType=debit, category=null, accountName=null, labels=Tradewinds, notes=null))
+RENT_RECEIVED
+RENTAL_COMMISSION
+CLEANING_AND_MAINTENANCE
+RENTAL_INSURANCE
+RENTAL_MGMT_FEE
+RENTAL_MTG_INTEREST
+RENTAL_REPAIRS
+RENTAL_TAXES
+RENTAL_HOA
